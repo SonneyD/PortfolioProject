@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BungieAPI_Project", "BungieAPI_Project\BungieAPI_Project.csproj", "{77E2F1F8-BE3A-4DEA-A2F8-91C872EE264C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinyEndpointGenerator", "..\..\..\Desktop\Project\Destiny2Api-master\DestinyEndpointGenerator\DestinyEndpointGenerator\DestinyEndpointGenerator.csproj", "{4F248730-4637-440F-B445-CC03D0AB5BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGenerator", "..\..\..\Desktop\Project\Destiny2Api-master\DestinyEndpointGenerator\ConsoleGenerator\ConsoleGenerator.csproj", "{36C2D72D-722B-4228-8BEF-C1715D20734A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinyApi", "..\..\..\Desktop\Project\Destiny2Api-master\DestinyApi\DestinyApi\DestinyApi.csproj", "{8A80A8B9-DC18-4B58-8323-1D2532899FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E2F1F8-BE3A-4DEA-A2F8-91C872EE264C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E2F1F8-BE3A-4DEA-A2F8-91C872EE264C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E2F1F8-BE3A-4DEA-A2F8-91C872EE264C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E2F1F8-BE3A-4DEA-A2F8-91C872EE264C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F248730-4637-440F-B445-CC03D0AB5BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F248730-4637-440F-B445-CC03D0AB5BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F248730-4637-440F-B445-CC03D0AB5BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F248730-4637-440F-B445-CC03D0AB5BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C2D72D-722B-4228-8BEF-C1715D20734A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C2D72D-722B-4228-8BEF-C1715D20734A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C2D72D-722B-4228-8BEF-C1715D20734A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C2D72D-722B-4228-8BEF-C1715D20734A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A80A8B9-DC18-4B58-8323-1D2532899FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A80A8B9-DC18-4B58-8323-1D2532899FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A80A8B9-DC18-4B58-8323-1D2532899FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A80A8B9-DC18-4B58-8323-1D2532899FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AEEFD0-69FE-4B18-B028-B2970BF1503A}
+	EndGlobalSection
+EndGlobal
